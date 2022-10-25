@@ -55,4 +55,3 @@ long cpf = 987654332109L;
 
 **Java é uma linguagem fortemente tipada!**
 
-[⬆ Voltar ao topo](Resumo)<br>
