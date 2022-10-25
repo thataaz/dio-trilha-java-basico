@@ -1,4 +1,4 @@
-package edu.aula.tipos;
+package edu.aula.tiposevariaveis;
 
 public class Tipos {
 
